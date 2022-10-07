@@ -27,10 +27,10 @@ List of Dinosaur Articles: Data/dinosaur_genera.cleaned.SEPT.2022.xlsx
 **Plots (.png files)**
 
 - Plots/Maximum Average and Minimum Average.png
-[](https://github.com/aamir21198/Human-Centered-Data-Science/blob/main/data-512-homework_1/Plots/Maximum%20Average%20and%20Minimum%20Average.png?raw=true)
+![Maximum Average and Minimum Average.](https://github.com/aamir21198/Human-Centered-Data-Science/blob/main/data-512-homework_1/Plots/Maximum%20Average%20and%20Minimum%20Average.png?raw=true)
 
 - Plots/Top 10 Peak Page Views.png
-[](https://github.com/aamir21198/Human-Centered-Data-Science/blob/main/data-512-homework_1/Plots/Top%2010%20Peak%20Page%20Views.png?raw=true)
+![Top 10 Peak Page Views](https://github.com/aamir21198/Human-Centered-Data-Science/blob/main/data-512-homework_1/Plots/Top%2010%20Peak%20Page%20Views.png?raw=true)
 
 - Plots/Fewest Months of Data.png
-[](https://github.com/aamir21198/Human-Centered-Data-Science/blob/main/data-512-homework_1/Plots/Fewest%20Months%20of%20Data.png?raw=true)
+![Fewest Months of Data](https://github.com/aamir21198/Human-Centered-Data-Science/blob/main/data-512-homework_1/Plots/Fewest%20Months%20of%20Data.png?raw=true)
