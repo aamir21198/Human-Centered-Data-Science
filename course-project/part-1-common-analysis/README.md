@@ -39,4 +39,4 @@ During this Course Project you are going to begin taking a look at some of the s
 | \<date>        | int       | Confirmed number of cases for each day from 1/22/2020 to 10/30/2022 |
 
 ### Final Visualization:
-![Hudson county daily cases](Hudson county daily cases.png)
+![Hudson county daily cases](https://github.com/aamir21198/Human-Centered-Data-Science/raw/main/course-project/part-1-common-analysis/Hudson%20county%20daily%20cases.png)
