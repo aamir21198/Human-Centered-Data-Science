@@ -1,10 +1,8 @@
-# Professionalism & Reproducibility
+# Course Project
+
+## Part 1 - Common Analysis
 
 **DATA 512: Human-Centered Data Science**
-
-**Course Project**
-
-**Part 1 - Common Analysis**
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/aamir21198/Human-Centered-Data-Science/blob/main/LICENSE)
 
